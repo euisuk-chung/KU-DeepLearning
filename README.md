@@ -1,6 +1,6 @@
 # KU-DeepLearning
 
-- This Repository contains midterm and finals coding assignment for `Deep Learning Fundamentals` @KoreaUniversity
+- This Repository contains midterm and finals coding assignment for `Deep Learning Fundamentals` at Korea University
 
 ## Midterm Homework
 
@@ -20,7 +20,7 @@
 
 1. Make following picture and use CNN to detect numbers from the following picture.
 
-<img src = 'https://github.com/euisuk-chung/KU-DeepLearning/blob/main/image/MNIST_concat.png?raw=true' width="400" height="400">
+<img src = 'https://github.com/euisuk-chung/KU-DeepLearning/blob/main/image/MNIST_concat.png?raw=true' width="300" height="300">
 
 2. Define and run RNN using full gradient method.
     - One to Many
